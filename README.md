@@ -2,7 +2,7 @@
 
 给捐款的各位磕头了
 
-通过clone川虎ChatGPT项目，结合我自己申请的api，我做了一个可以免费使用openai服务的站点：
+通过clone[川虎ChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)项目，结合我自己申请的api，我做了一个可以免费使用openai服务的站点：
 [快来试试吧](https://buptfreechat.win)
 
 ## Api使用和捐赠情况
@@ -17,9 +17,13 @@
 
 截至2023年3月22日，累计接受到16.76人民币
 
+### 联系方式
 
+如果我侵犯到了您的权益，请您立即联系我：
+
+brook1711@bupt.edu.cn
 
 ### 捐赠二维码：
 
-![IMG_2349](./README.assets/IMG_2349.JPG)
+<img src="./README.assets/IMG_2349.JPG" alt="IMG_2349" style="zoom: 25%;" />
 
